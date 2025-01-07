@@ -77,7 +77,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-#### 2.5 Environment Variables
+### 2.5 Environment Variables
 
 Add the following environment variables to your .env file and also add venv to your .gitignore
 
