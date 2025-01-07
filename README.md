@@ -34,9 +34,9 @@ pip --version
 aws configure
 ```
 
-- Input your access and secret key
-- Enter your default region; preferably us-east-1
-- Set your default output format to json
+ - Input your access and secret key
+ - Enter your default region; preferably us-east-1
+ - Set your default output format to json
 
 
 ## 2 Workflow 
